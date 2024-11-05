@@ -15,7 +15,7 @@
     "pretty": "prettier --write 'src/**/*.{css,js,jsx,json}' 'docs/**/*.{md,mdx,js,jsx}' sidebars.js docusaurus.config.js"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.58",
+    "@docusaurus/core": "^3.6.0",
     "@docusaurus/preset-classic": "^2.0.0-alpha.58",
     "classnames": "^2.2.6",
     "prettier": "^2.0.5",
